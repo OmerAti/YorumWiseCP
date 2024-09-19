@@ -181,8 +181,8 @@ public function save_fields($fields = [])
     $fileContent .= "                    echo '</div>';\n";
     $fileContent .= "                    \$message = isset(\$messages_by_id[\$feedback['id']][\$current_lang])\n";
     $fileContent .= "                        ? \$messages_by_id[\$feedback['id']][\$current_lang]\n";
-    $fileContent .= "                        : (isset(\$messages_by_id[\$feedback['id']]['en'])\n";
-    $fileContent .= "                            ? \$messages_by_id[\$feedback['id']]['en']\n";
+    $fileContent .= "                        : (isset(\$messages_by_id[\$feedback['id']]['tr'])\n";
+    $fileContent .= "                            ? \$messages_by_id[\$feedback['id']]['tr']\n";
     $fileContent .= "                            : 'Mesaj bulunamadi.');\n";
     $fileContent .= "                    echo '<p>\"' . htmlspecialchars(\$message) . '\"</p>';\n";
     $fileContent .= "                    echo '</div>';\n";
