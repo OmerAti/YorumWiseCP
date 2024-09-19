@@ -1,7 +1,7 @@
 ## Tüm Yorumlar Özel Sayfa Eklentisi
 
 ### Ekran Görüntüleri
-<img src="https://raw.githubusercontent.com/OmerAti/YorumWiseCP/refs/heads/main/logo.png" alt="Ekran Görüntüsü" height="150px" width="150px"/>
+<img src="https://raw.githubusercontent.com/OmerAti/YorumWiseCP/refs/heads/main/logo.png" alt="Ekran Görüntüsü" height="300px" width="300px"/>
 
 
 ### Genel Bakış
@@ -14,14 +14,14 @@
 - **Esnek İçerik Gösterimi:** Müşteri yorumlarını özelleştirilebilir metin ve stil seçenekleri ile gösterir.
 
 ### Kurulum
-1. **Eklentiyi İndirin:** Eklentinin en son sürümünü [GitHub deposundan](https://github.com/your-repo-url) indirin.
-2. **Sitenize Yükleyin:** Eklenti dosyalarını sitenizin eklenti dizinine yükleyin.
+1. **Eklentiyi İndirin:**
+2. **Sitenize Yükleyin:** coremio/modules/Addons
 3. **Eklentiyi Aktifleştirin:** Sitenizin yönetim paneline gidin ve "Tüm Yorumlar Özel Sayfa Eklentisi"ni aktifleştirin.
-4. **Ayarları Yapılandırın:** Eklentinin ayarlar sayfasına gidin ve tema yolunu ve diğer seçenekleri yapılandırın.
+4. **Ayarları Yapılandırın:** Eklentinin ayarlar sayfasına gidin ve tema yolunu yapılandırın.
+5. **URL:** domainadi.com/musteri-gorusleri olarak sayfaya erişin
 
 ### Yapılandırma
 - **Tema Yolu:** Eklentinin doğru stil ve entegrasyon sağlaması için tema yolunu girin.
-- **Ayarlar:** Performansı optimize etmek için ek ayarları gerektiği gibi düzenleyin.
 
 ### Ekran Görüntüleri
 ![Ekran Görüntüsü](https://raw.githubusercontent.com/OmerAti/YorumWiseCP/refs/heads/main/d1.png)
